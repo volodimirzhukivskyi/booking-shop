@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "https://volodimirzhukivskyi.github.io/booking-shop/static/css/main.95bdd349.css",
+    "main.css": "https://volodimirzhukivskyi.github.io/booking-shop/static/css/main.30a2e3fb.css",
     "main.js": "https://volodimirzhukivskyi.github.io/booking-shop/static/js/main.583097ac.js",
     "index.html": "https://volodimirzhukivskyi.github.io/booking-shop/index.html",
-    "main.95bdd349.css.map": "https://volodimirzhukivskyi.github.io/booking-shop/static/css/main.95bdd349.css.map",
+    "main.30a2e3fb.css.map": "https://volodimirzhukivskyi.github.io/booking-shop/static/css/main.30a2e3fb.css.map",
     "main.583097ac.js.map": "https://volodimirzhukivskyi.github.io/booking-shop/static/js/main.583097ac.js.map"
   },
   "entrypoints": [
-    "static/css/main.95bdd349.css",
+    "static/css/main.30a2e3fb.css",
     "static/js/main.583097ac.js"
   ]
 }
