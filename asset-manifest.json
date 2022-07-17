@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "https://volodimirzhukivskyi.github.io/booking-shop/static/css/main.5cd7c415.css",
-    "main.js": "https://volodimirzhukivskyi.github.io/booking-shop/static/js/main.df04a9b7.js",
+    "main.css": "https://volodimirzhukivskyi.github.io/booking-shop/static/css/main.d73ef65f.css",
+    "main.js": "https://volodimirzhukivskyi.github.io/booking-shop/static/js/main.583097ac.js",
     "index.html": "https://volodimirzhukivskyi.github.io/booking-shop/index.html",
-    "main.5cd7c415.css.map": "https://volodimirzhukivskyi.github.io/booking-shop/static/css/main.5cd7c415.css.map",
-    "main.df04a9b7.js.map": "https://volodimirzhukivskyi.github.io/booking-shop/static/js/main.df04a9b7.js.map"
+    "main.d73ef65f.css.map": "https://volodimirzhukivskyi.github.io/booking-shop/static/css/main.d73ef65f.css.map",
+    "main.583097ac.js.map": "https://volodimirzhukivskyi.github.io/booking-shop/static/js/main.583097ac.js.map"
   },
   "entrypoints": [
-    "static/css/main.5cd7c415.css",
-    "static/js/main.df04a9b7.js"
+    "static/css/main.d73ef65f.css",
+    "static/js/main.583097ac.js"
   ]
 }
